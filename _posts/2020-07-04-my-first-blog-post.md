@@ -1,5 +1,5 @@
 ---
-title: "第一篇Blogs"
-date: 2020-7-5
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
 这是我今天的第一篇博客
